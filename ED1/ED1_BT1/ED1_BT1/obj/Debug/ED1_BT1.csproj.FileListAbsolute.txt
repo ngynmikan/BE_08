@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\BE_07_2024\ED1\ED1_BT1\ED1_BT1\obj\Debug\ED1_BT1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\BE_07_2024\ED1\ED1_BT1\ED1_BT1\obj\Debug\ED1_BT1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\BE_07_2024\ED1\ED1_BT1\ED1_BT1\bin\Debug\ED1_BT1.exe.config
+C:\Users\ADMIN\Documents\BE_07_2024\ED1\ED1_BT1\ED1_BT1\bin\Debug\ED1_BT1.exe
+C:\Users\ADMIN\Documents\BE_07_2024\ED1\ED1_BT1\ED1_BT1\bin\Debug\ED1_BT1.pdb
+C:\Users\ADMIN\Documents\BE_07_2024\ED1\ED1_BT1\ED1_BT1\obj\Debug\ED1_BT1.exe
+C:\Users\ADMIN\Documents\BE_07_2024\ED1\ED1_BT1\ED1_BT1\obj\Debug\ED1_BT1.pdb
