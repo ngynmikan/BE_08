@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\ED1_BT2\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\BE_07_2024\\ED1\\ED1_BT2_PTB2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE5BC190-5FD1-4CA4-8482-310254F0970F}|ED1_BT2\\ED1_BT2.csproj|c:\\users\\admin\\source\\repos\\ed1_bt2\\ed1_bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5BC190-5FD1-4CA4-8482-310254F0970F}|ED1_BT2\\ED1_BT2.csproj|solutionrelative:ed1_bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27BC5076-5C44-4663-ABCC-E4442A3F9477}|ED1_BT2_PTB2\\ED1_BT2_PTB2.csproj|c:\\users\\admin\\documents\\be_07_2024\\ed1\\ed1_bt2_ptb2\\ed1_bt2_ptb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BC5076-5C44-4663-ABCC-E4442A3F9477}|ED1_BT2_PTB2\\ED1_BT2_PTB2.csproj|solutionrelative:ed1_bt2_ptb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -100,13 +100,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ED1_BT2\\ED1_BT2\\Program.cs",
-              "RelativeDocumentMoniker": "ED1_BT2\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ED1_BT2\\ED1_BT2\\Program.cs",
-              "RelativeToolTip": "ED1_BT2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\BE_07_2024\\ED1\\ED1_BT2_PTB2\\ED1_BT2_PTB2\\Program.cs",
+              "RelativeDocumentMoniker": "ED1_BT2_PTB2\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\BE_07_2024\\ED1\\ED1_BT2_PTB2\\ED1_BT2_PTB2\\Program.cs",
+              "RelativeToolTip": "ED1_BT2_PTB2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T12:55:25.148Z",
+              "WhenOpened": "2024-07-18T13:22:35.344Z",
               "EditorCaption": ""
             }
           ]
